@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6847F7&random=false&width=435&lines=Hey+Guys!;Sou+o+Gelcino+Junior;Mas+pode+me+chamar+de+Adrip;welcome%2C+everyone+%3C3)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6847F7&random=false&width=435&lines=%E2%9C%8B%F0%9F%98%9C%F0%9F%A4%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6847F7&random=false&width=435&lines=Hey+Guys!;Sou+o+Adryan+Lima;Mas+pode+me+chamar+de+Adrip;welcome%2C+everyone+%3C3)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6847F7&random=false&width=435&lines=%E2%9C%8B%F0%9F%98%9C%F0%9F%A4%9A)](https://git.io/typing-svg)
 
 - 🔭 Amo tecnologia e Web Designer
 - 🌱 Atualmente estou estudando **Front-end**
@@ -30,5 +30,4 @@
 <div  style="display: inline_block" align="center"> 
   <a href="https://instagram.com/adryanfll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juniorll7@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gelcino-f-l-junior-8071a82ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
